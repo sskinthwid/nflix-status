@@ -1,4 +1,18 @@
 {
   "format": "nflix-notices-v1",
-  "notifications": []
+  "notifications": [
+    {
+      "id": "notice-mvzpv47c-75v9klms",
+      "title": "Your people. Your next watch.",
+      "message": "Join our Discord for Nflix news, Updates, recommendations and a place to talk about what you’re watching.",
+      "amount": 1,
+      "intervalMinutes": 60,
+      "delivery": "in-app",
+      "presentation": "banner",
+      "kind": "community",
+      "expiresAt": "2026-12-02T20:36:08.966Z",
+      "url": "https://discord.gg/YMf7SpUYZ",
+      "actionLabel": "Join the Discord"
+    }
+  ]
 }
